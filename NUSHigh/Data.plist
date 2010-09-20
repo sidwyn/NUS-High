@@ -1,0 +1,1482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Staff</key>
+	<dict>
+		<key>A</key>
+		<array>
+			<dict>
+				<key>Name</key>
+				<string>Adeline Koh Jingyu</string>
+				<key>Title</key>
+				<string>English Literature, English Department</string>
+				<key>Number</key>
+				<string>65161743</string>
+				<key>Email</key>
+				<string>adeline_koh@highsch.nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Allan Patrick Uy</string>
+				<key>Title</key>
+				<string>College Counsellor</string>
+				<key>Number</key>
+				<string>65161719</string>
+				<key>Email</key>
+				<string>nhsapu@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Ang Sherli</string>
+				<key>Title</key>
+				<string>Assistant Manager (HR)</string>
+				<key>Number</key>
+				<string>65161714</string>
+				<key>Email</key>
+				<string>nhsas@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Ang Sherna</string>
+				<key>Title</key>
+				<string>Student Affairs, Administrative Office</string>
+				<key>Number</key>
+				<string>65167279</string>
+				<key>Email</key>
+				<string>nhsangs@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Angela Lim</string>
+				<key>Title</key>
+				<string>Physics &amp; Engineering Department</string>
+				<key>Number</key>
+				<string>65168628</string>
+				<key>Email</key>
+				<string>nhslppa@nus.edu.sg</string>
+				<key>New item - 7</key>
+				<dict>
+					<key>Name</key>
+					<string>Angela Loh</string>
+					<key>Title</key>
+					<string>Head of PE &amp; CCA Department</string>
+					<key>Number</key>
+					<string>65162408</string>
+					<key>Email</key>
+					<string>nhsllka@nus.edu.sg</string>
+				</dict>
+			</dict>
+		</array>
+		<key>B</key>
+		<array>
+			<dict>
+				<key>Name</key>
+				<string>Bay Wee Wen</string>
+				<key>Title</key>
+				<string>Head of English Department</string>
+				<key>Number</key>
+				<string>65161774</string>
+				<key>Email</key>
+				<string>nhsbww@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Beji Dass</string>
+				<key>Title</key>
+				<string>English Department</string>
+				<key>Number</key>
+				<string></string>
+				<key>Email</key>
+				<string>nhsbd@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Bernard Ricardo Widjaja</string>
+				<key>Title</key>
+				<string>Physics &amp; Engineering Department</string>
+				<key>Number</key>
+				<string>65167295</string>
+				<key>Email</key>
+				<string>nhsbrw@nus.edu.sg</string>
+			</dict>
+		</array>
+		<key>C</key>
+		<array>
+			<dict>
+				<key>Name</key>
+				<string>Camellia Lee</string>
+				<key>Title</key>
+				<string>PE &amp; CCA Department</string>
+				<key>Number</key>
+				<string>65161747</string>
+				<key>Email</key>
+				<string>nhsleell@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Canice Chua</string>
+				<key>Title</key>
+				<string>Head of ACE, Humanities Department</string>
+				<key>Number</key>
+				<string>65161710</string>
+				<key>Email</key>
+				<string>nhscskc@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Caroline Gordon</string>
+				<key>Title</key>
+				<string>English Department</string>
+				<key>Number</key>
+				<string></string>
+				<key>Email</key>
+				<string>nhscarol@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Chee Wei Fang</string>
+				<key>Title</key>
+				<string>HR, Adminstrative Office</string>
+				<key>Number</key>
+				<string></string>
+				<key>Email</key>
+				<string>nhscwf@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Cheong Kang Hao</string>
+				<key>Title</key>
+				<string>Math, Statistics &amp; Computing Department</string>
+				<key>Number</key>
+				<string>65161587</string>
+				<key>Email</key>
+				<string>nhsckh@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Chia Edna</string>
+				<key>Title</key>
+				<string>Corporate Communication, Adminstrative Office</string>
+				<key>Number</key>
+				<string></string>
+				<key>Email</key>
+				<string>nhscme@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Chia Vui Leong</string>
+				<key>Title</key>
+				<string>Math, Statistics &amp; Computing Department</string>
+				<key>Number</key>
+				<string>65161728</string>
+				<key>Email</key>
+				<string>nhscvl@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Chiam Sher-Yi</string>
+				<key>Title</key>
+				<string>Head of Office of Research, Innovation and Enterprise Department</string>
+				<key>Number</key>
+				<string>65165159</string>
+				<key>Email</key>
+				<string>nhscs@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Chong Ai Lin</string>
+				<key>Title</key>
+				<string>Head of Student Leadership &amp; House, Chemistry Department</string>
+				<key>Number</key>
+				<string>65165818</string>
+				<key>Email</key>
+				<string>nhscal@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Chong Shang Shan</string>
+				<key>Title</key>
+				<string>Physics &amp; Engineering Department</string>
+				<key>Number</key>
+				<string>65167062</string>
+				<key>Email</key>
+				<string>nhscss@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Christine Lam</string>
+				<key>Title</key>
+				<string>English Department</string>
+				<key>Number</key>
+				<string>65167299</string>
+				<key>Email</key>
+				<string>nhsllh@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Chua Bann</string>
+				<key>Title</key>
+				<string>Head of Humanities Department</string>
+				<key>Number</key>
+				<string>65161775</string>
+				<key>Email</key>
+				<string>nhscb@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Chua Chin Haw</string>
+				<key>Title</key>
+				<string>Mother Tongue &amp; Foreign Languages Department</string>
+				<key>Number</key>
+				<string>65161737</string>
+				<key>Email</key>
+				<string>nhscch@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Chua Chong Ping</string>
+				<key>Title</key>
+				<string>Head of ACE, PE &amp; CCA Department</string>
+				<key>Number</key>
+				<string>65168529</string>
+				<key>Email</key>
+				<string>nhsapu@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Clifton Soh</string>
+				<key>Title</key>
+				<string>Physics &amp; Engineering Department</string>
+				<key>Number</key>
+				<string>65167293</string>
+				<key>Email</key>
+				<string>nhssksc@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Crystal Loh</string>
+				<key>Title</key>
+				<string>Head of Boarding Department</string>
+				<key>Number</key>
+				<string></string>
+				<key>Email</key>
+				<string>nhslkfc@nus.edu.sg</string>
+			</dict>
+		</array>
+		<key>D</key>
+		<array>
+			<dict>
+				<key>Name</key>
+				<string>David Chia</string>
+				<key>Title</key>
+				<string>Math, Statistics &amp; Computing Department</string>
+				<key>Number</key>
+				<string>65168637</string>
+				<key>Email</key>
+				<string>nhscmhd@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>David Sun</string>
+				<key>Title</key>
+				<string>PE &amp; CCA Department</string>
+				<key>Number</key>
+				<string>65161746</string>
+				<key>Email</key>
+				<string>nhssxq@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Derrick Foo</string>
+				<key>Title</key>
+				<string>Assistant Head of PE &amp; CCA Department</string>
+				<key>Number</key>
+				<string></string>
+				<key>Email</key>
+				<string>nhsfjm@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Don Yeo</string>
+				<key>Title</key>
+				<string>Chemistry Department</string>
+				<key>Number</key>
+				<string>65161721</string>
+				<key>Email</key>
+				<string>nhsysy@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Dong Yanqin</string>
+				<key>Title</key>
+				<string>Mother Tongue &amp; Foreign Languages Department</string>
+				<key>Number</key>
+				<string>65168635</string>
+				<key>Email</key>
+				<string>nhsdy@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Dustin Chin</string>
+				<key>Title</key>
+				<string>English Department</string>
+				<key>Number</key>
+				<string>65168650</string>
+				<key>Email</key>
+				<string>nhsckyd@nus.edu.sg</string>
+			</dict>
+		</array>
+		<key>E</key>
+		<array>
+			<dict>
+				<key>Name</key>
+				<string>Edwin Tay</string>
+				<key>Title</key>
+				<string>Partnership &amp; Internationalization, Adminstrative Office</string>
+				<key>Number</key>
+				<string></string>
+				<key>Email</key>
+				<string>nhstshe@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Elizabeth Mariko Gomez</string>
+				<key>Title</key>
+				<string>Mother Tongue &amp; Foreign Languages Department</string>
+				<key>Number</key>
+				<string></string>
+				<key>Email</key>
+				<string>nhsemg@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Emilia Wong</string>
+				<key>Title</key>
+				<string>Music &amp; Art Department</string>
+				<key>Number</key>
+				<string>65161739</string>
+				<key>Email</key>
+				<string>nhswonge@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Eng Leng Goy</string>
+				<key>Title</key>
+				<string>Finance Manager</string>
+				<key>Number</key>
+				<string></string>
+				<key>Email</key>
+				<string>nhselg@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Eric Francis Tinsay Valles</string>
+				<key>Title</key>
+				<string>English Department</string>
+				<key>Number</key>
+				<string>65168631</string>
+				<key>Email</key>
+				<string>nhseftv@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Eunice Chan</string>
+				<key>Title</key>
+				<string>Head of Year 2, English Department</string>
+				<key>Number</key>
+				<string>65161731</string>
+				<key>Email</key>
+				<string>nhscyz@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Evangeline Cheng</string>
+				<key>Title</key>
+				<string>English Department</string>
+				<key>Number</key>
+				<string>65167545</string>
+				<key>Email</key>
+				<string>nhscase@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Evelyn Duong</string>
+				<key>Title</key>
+				<string>Finance, Adminstrative Office</string>
+				<key>Number</key>
+				<string></string>
+				<key>Email</key>
+				<string>nhsdtkh@nus.edu.sg</string>
+			</dict>
+		</array>
+		<key>F</key>
+		<array>
+			<dict>
+				<key>Name</key>
+				<string>Fan Kai Ming</string>
+				<key>Title</key>
+				<string>PE Department</string>
+				<key>Number</key>
+				<string>65161730</string>
+				<key>Email</key>
+				<string>nhsfkc@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Fong Kit Ching</string>
+				<key>Title</key>
+				<string>Biology Department</string>
+				<key>Number</key>
+				<string>65168531</string>
+				<key>Email</key>
+				<string>nhsfkc@nus.edu.sg</string>
+			</dict>
+		</array>
+		<key>G</key>
+		<array>
+			<dict>
+				<key>Name</key>
+				<string>Geneva Koh</string>
+				<key>Title</key>
+				<string>Music &amp; Art Department</string>
+				<key>Number</key>
+				<string>65167294</string>
+				<key>Email</key>
+				<string>nhskwb@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Goh Hock Leong</string>
+				<key>Title</key>
+				<string>Director of Office of Research, Innovation &amp; Enterprise Department</string>
+				<key>Number</key>
+				<string>65168667</string>
+				<key>Email</key>
+				<string>nhsglh@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Grace Tan</string>
+				<key>Title</key>
+				<string>Math, Statistics &amp; Computing Department</string>
+				<key>Number</key>
+				<string>65164448</string>
+				<key>Email</key>
+				<string>nhstkeg@nus.edu.sg</string>
+			</dict>
+		</array>
+		<key>H</key>
+		<array>
+			<dict>
+				<key>Name</key>
+				<string>Hang Kim Hoo</string>
+				<key>Title</key>
+				<string>Principal, Administrative Office</string>
+				<key>Number</key>
+				<string></string>
+				<key>Email</key>
+				<string>nhshkh@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Hansel Lin</string>
+				<key>Title</key>
+				<string>Math, Statistics &amp; Computing Department</string>
+				<key>Number</key>
+				<string>65168212</string>
+				<key>Email</key>
+				<string>nhsldh@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Hilda Mak</string>
+				<key>Title</key>
+				<string>Mother Tongue &amp; Foreign Languages Department</string>
+				<key>Number</key>
+				<string>65168537</string>
+				<key>Email</key>
+				<string>nhsmhmh@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Ho Kok Kiat</string>
+				<key>Title</key>
+				<string>Mother Tongue &amp; Foreign Languages Department</string>
+				<key>Number</key>
+				<string>65161734</string>
+				<key>Email</key>
+				<string>nhshokk@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Hwang Ying Chien</string>
+				<key>Title</key>
+				<string>College Counsellor</string>
+				<key>Number</key>
+				<string>65161141</string>
+				<key>Email</key>
+				<string>nhshyc@nus.edu.sg</string>
+			</dict>
+		</array>
+		<key>I</key>
+		<array>
+			<dict>
+				<key>Name</key>
+				<string>Ivy Koo</string>
+				<key>Title</key>
+				<string>Head of Year 5, English Department</string>
+				<key>Number</key>
+				<string>65167296</string>
+				<key>Email</key>
+				<string>nhski@nus.edu.sg</string>
+			</dict>
+		</array>
+		<key>J</key>
+		<array>
+			<dict>
+				<key>Name</key>
+				<string>Jacky Wong</string>
+				<key>Title</key>
+				<string>Assistant Head of RIE, Chemistry Department</string>
+				<key>Number</key>
+				<string>65161762</string>
+				<key>Email</key>
+				<string>nhswtt@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Jade Lee</string>
+				<key>Title</key>
+				<string>Pastoral Counsellor</string>
+				<key>Number</key>
+				<string>65165439</string>
+				<key>Email</key>
+				<string>nhslyk@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Jassson Yeo</string>
+				<key>Title</key>
+				<string>Physics &amp; Engineering Department</string>
+				<key>Number</key>
+				<string></string>
+				<key>Email</key>
+				<string>nhsyclj@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Jeryl Sim</string>
+				<key>Title</key>
+				<string>PE &amp; CCA Department</string>
+				<key>Number</key>
+				<string>65161763</string>
+				<key>Email</key>
+				<string>nhssty@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Joon Ng</string>
+				<key>Title</key>
+				<string>Biology Department</string>
+				<key>Number</key>
+				<string>65167719</string>
+				<key>Email</key>
+				<string>nhsnz@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Joyce Ng</string>
+				<key>Title</key>
+				<string>Math, Statistics &amp; Computing Department</string>
+				<key>Number</key>
+				<string>65161735</string>
+				<key>Email</key>
+				<string>nhsnhc@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Joyce Seow</string>
+				<key>Title</key>
+				<string>Math, Statistics &amp; Computing Department</string>
+				<key>Number</key>
+				<string>65161724</string>
+				<key>Email</key>
+				<string>nhsscl@nus.edu.sg</string>
+			</dict>
+		</array>
+		<key>K</key>
+		<array>
+			<dict>
+				<key>Name</key>
+				<string>Kalpana d/o Subramaniam</string>
+				<key>Title</key>
+				<string>Biology Department</string>
+				<key>Number</key>
+				<string>65165704</string>
+				<key>Email</key>
+				<string>nhskalpa@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Kimberly Wu</string>
+				<key>Title</key>
+				<string>Biology Department</string>
+				<key>Number</key>
+				<string>65168543</string>
+				<key>Email</key>
+				<string>nhswyk@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Koh Siok Bee</string>
+				<key>Title</key>
+				<string>Assistant Head of Chemistry Department</string>
+				<key>Number</key>
+				<string>65168629</string>
+				<key>Email</key>
+				<string>nhsksb@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Kong Yee Ching</string>
+				<key>Title</key>
+				<string>Chemistry Department</string>
+				<key>Number</key>
+				<string>65161727</string>
+				<key>Email</key>
+				<string>nhskyc@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Ku Ching Ming</string>
+				<key>Title</key>
+				<string>Math, Statistics &amp; Computing Department</string>
+				<key>Number</key>
+				<string>65161729</string>
+				<key>Email</key>
+				<string>nhskcm@nus.edu.sg</string>
+			</dict>
+		</array>
+		<key>L</key>
+		<array>
+			<dict>
+				<key>Name</key>
+				<string>Lawrence Chan</string>
+				<key>Title</key>
+				<string>Estate, Adminstrative Office</string>
+				<key>Number</key>
+				<string></string>
+				<key>Email</key>
+				<string>nhschanl@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Lee Chan Lye</string>
+				<key>Title</key>
+				<string>Math, Statistics &amp; Computing Department</string>
+				<key>Number</key>
+				<string>65167302</string>
+				<key>Email</key>
+				<string>nhslcl@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Lee Kim Hun</string>
+				<key>Title</key>
+				<string>Chemistry Department</string>
+				<key>Number</key>
+				<string>65168213</string>
+				<key>Email</key>
+				<string>nhslkh@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Lee Sheau Huey</string>
+				<key>Title</key>
+				<string>Head of Year 6, Math, Statistics &amp; Computing Department</string>
+				<key>Number</key>
+				<string>65167717</string>
+				<key>Email</key>
+				<string>nhslsh@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Lee Siak Cheong</string>
+				<key>Title</key>
+				<string>Biology Department</string>
+				<key>Number</key>
+				<string>65168640</string>
+				<key>Email</key>
+				<string>nhsleesc@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Lee Wee Yan</string>
+				<key>Title</key>
+				<string>Music &amp; Art Department</string>
+				<key>Number</key>
+				<string>65167478</string>
+				<key>Email</key>
+				<string>nhslwy@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Li Da</string>
+				<key>Title</key>
+				<string>Math, Statistics &amp; Computing Department</string>
+				<key>Number</key>
+				<string>65166596</string>
+				<key>Email</key>
+				<string>nhsld@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Li Liangzi</string>
+				<key>Title</key>
+				<string>Head of Mother Tongue &amp; Foreign Languages Department</string>
+				<key>Number</key>
+				<string>65161732</string>
+				<key>Email</key>
+				<string>nhslilz@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Li Lina</string>
+				<key>Title</key>
+				<string>Physics &amp; Engineering Department</string>
+				<key>Number</key>
+				<string>65165207</string>
+				<key>Email</key>
+				<string>nhslil@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Li Wei</string>
+				<key>Title</key>
+				<string>Chemistry Department</string>
+				<key>Number</key>
+				<string>65168627</string>
+				<key>Email</key>
+				<string>nhslw@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Lim Chong Shen</string>
+				<key>Title</key>
+				<string>English Department</string>
+				<key>Number</key>
+				<string>65168533</string>
+				<key>Email</key>
+				<string>nhslcs@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Lim Hui Wen</string>
+				<key>Title</key>
+				<string>Deputy Principal</string>
+				<key>Number</key>
+				<string></string>
+				<key>Email</key>
+				<string>nhslhw@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Lim Ing Chieh</string>
+				<key>Title</key>
+				<string>Humanities Department</string>
+				<key>Number</key>
+				<string>65168536</string>
+				<key>Email</key>
+				<string>nhslhw@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Lim Lay Peng</string>
+				<key>Title</key>
+				<string>Finance, Adminstrative Office</string>
+				<key>Number</key>
+				<string></string>
+				<key>Email</key>
+				<string>nhsllp@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Lim Li Chen</string>
+				<key>Title</key>
+				<string>Physics &amp; Engineering Department</string>
+				<key>Number</key>
+				<string>65161736</string>
+				<key>Email</key>
+				<string>nhsllc@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Lim Teng Hong</string>
+				<key>Title</key>
+				<string>Head of Discipline, Humanities Department</string>
+				<key>Number</key>
+				<string>65165801</string>
+				<key>Email</key>
+				<string>nhslth@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Lim Yeow Heng</string>
+				<key>Title</key>
+				<string>Head of ICT, Physics &amp; Engineering Department</string>
+				<key>Number</key>
+				<string>65165216</string>
+				<key>Email</key>
+				<string>nhslyh@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Liu Lihui</string>
+				<key>Title</key>
+				<string>Mother Tongue &amp; Foreign Languages Department</string>
+				<key>Number</key>
+				<string>65161770</string>
+				<key>Email</key>
+				<string>nhsll@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Loo Chee Wee</string>
+				<key>Title</key>
+				<string>Math, Statistics &amp; Computing Department</string>
+				<key>Number</key>
+				<string></string>
+				<key>Email</key>
+				<string>nhsloocw@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Low Chin Han</string>
+				<key>Title</key>
+				<string>Assistant Head of Math, Statistics &amp; Computing Department</string>
+				<key>Number</key>
+				<string>65167300</string>
+				<key>Email</key>
+				<string>nhslch@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Low Kai Leng</string>
+				<key>Title</key>
+				<string>Biology Department</string>
+				<key>Number</key>
+				<string></string>
+				<key>Email</key>
+				<string>nhslowkl@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Lulie James</string>
+				<key>Title</key>
+				<string>Consultant of Humanities Department</string>
+				<key>Number</key>
+				<string>65161720</string>
+				<key>Email</key>
+				<string>nhstbgl@nus.edu.sg</string>
+			</dict>
+		</array>
+		<key>M</key>
+		<array>
+			<dict>
+				<key>Name</key>
+				<string>Madeline Lim</string>
+				<key>Title</key>
+				<string>Humanities Department</string>
+				<key>Number</key>
+				<string>65168642</string>
+				<key>Email</key>
+				<string>nhsczm@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Malcolm Soh</string>
+				<key>Title</key>
+				<string>Biology Department</string>
+				<key>Number</key>
+				<string>65161723</string>
+				<key>Email</key>
+				<string>nhssohm@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Mariko Gomez</string>
+				<key>Title</key>
+				<string>Mother Tongue &amp; Foreign Languages Department</string>
+				<key>Number</key>
+				<string>65164449</string>
+				<key>Email</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Mark Ross Dewey</string>
+				<key>Title</key>
+				<string>Chemistry Department</string>
+				<key>Number</key>
+				<string>65165799</string>
+				<key>Email</key>
+				<string>nhsmrd@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Milton Simon Raj s/o Arokiasamy</string>
+				<key>Title</key>
+				<string>Mother Tongue &amp; Foreign Languages Department</string>
+				<key>Number</key>
+				<string>65164450</string>
+				<key>Email</key>
+				<string>nhsmsr@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Murali Krishnaswamy</string>
+				<key>Title</key>
+				<string>Head of Chemistry Department</string>
+				<key>Number</key>
+				<string>65168538</string>
+				<key>Email</key>
+				<string>nhsmk@nus.edu.sg</string>
+			</dict>
+		</array>
+		<key>N</key>
+		<array>
+			<dict>
+				<key>Name</key>
+				<string>Ng Chee Loong</string>
+				<key>Title</key>
+				<string>Head of Talent Development, Math, Statistics &amp; Computing Department</string>
+				<key>Number</key>
+				<string>65161726</string>
+				<key>Email</key>
+				<string>nhsncl@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Ng Choon Hwee Bernard</string>
+				<key>Title</key>
+				<string>Chemistry Department</string>
+				<key>Number</key>
+				<string>65165247</string>
+				<key>Email</key>
+				<string>nhsnchb@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Ng Oon Hui</string>
+				<key>Title</key>
+				<string>Assistant Head, Biology Department</string>
+				<key>Number</key>
+				<string>65161722</string>
+				<key>Email</key>
+				<string>nhsnoh@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Ng Tiong Eng</string>
+				<key>Title</key>
+				<string>Assistant Head, Physics Department</string>
+				<key>Number</key>
+				<string>65165436</string>
+				<key>Email</key>
+				<string>nhsnte@nus.edu.sg</string>
+			</dict>
+		</array>
+		<key>O</key>
+		<array>
+			<dict>
+				<key>Name</key>
+				<string>Oon-Teo Geok Hon</string>
+				<key>Title</key>
+				<string>Physics &amp; Engineering Department</string>
+				<key>Number</key>
+				<string></string>
+				<key>Email</key>
+				<string>nhstgh@nus.edu.sg</string>
+			</dict>
+		</array>
+		<key>P</key>
+		<array>
+			<dict>
+				<key>Name</key>
+				<string>Pek Peng Kiat</string>
+				<key>Title</key>
+				<string>Physics &amp; Engineering Department</string>
+				<key>Number</key>
+				<string>65165310</string>
+				<key>Email</key>
+				<string>nhsppk@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Philomena Loh</string>
+				<key>Title</key>
+				<string>Secretary</string>
+				<key>Number</key>
+				<string></string>
+				<key>Email</key>
+				<string>nhslohp@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Phylliscia Chew</string>
+				<key>Title</key>
+				<string>Math, Statistics &amp; Computing Department</string>
+				<key>Number</key>
+				<string>65167064</string>
+				<key>Email</key>
+				<string>nhscsp@nus.edu.sg</string>
+			</dict>
+		</array>
+		<key>Q</key>
+		<array>
+			<dict>
+				<key>Name</key>
+				<string>Queenie Kou</string>
+				<key>Title</key>
+				<string>Boarding Master, Boarding Department</string>
+				<key>Number</key>
+				<string></string>
+				<key>Email</key>
+				<string>nhskskq@nus.edu.sg</string>
+			</dict>
+		</array>
+		<key>R</key>
+		<array>
+			<dict>
+				<key>Name</key>
+				<string>Rachel Tan</string>
+				<key>Title</key>
+				<string>Student Affairs, Adminstrative Office</string>
+				<key>Number</key>
+				<string></string>
+				<key>Email</key>
+				<string>nhstshr@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Rebekah Yeo</string>
+				<key>Title</key>
+				<string>Humanities Department</string>
+				<key>Number</key>
+				<string></string>
+				<key>Email</key>
+				<string>nhslic@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Rohaida Bte Ismail</string>
+				<key>Title</key>
+				<string>Mother Tongue &amp; Foreign Languages Department</string>
+				<key>Number</key>
+				<string>65168634</string>
+				<key>Email</key>
+				<string>nhsri@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Royce Chai</string>
+				<key>Title</key>
+				<string>Math, Statistics &amp; Computing Department</string>
+				<key>Number</key>
+				<string>65162032</string>
+				<key>Email</key>
+				<string>nhscmh@nus.edu.sg</string>
+			</dict>
+		</array>
+		<key>S</key>
+		<array>
+			<dict>
+				<key>Name</key>
+				<string>Sean Yee</string>
+				<key>Title</key>
+				<string>Math, Statistics &amp; Computing Department</string>
+				<key>Number</key>
+				<string></string>
+				<key>Email</key>
+				<string>nhsybs@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Selva Sundram s/o M. Ramasamy</string>
+				<key>Title</key>
+				<string>English Department</string>
+				<key>Number</key>
+				<string>65165421</string>
+				<key>Email</key>
+				<string>nhssmr@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Sharon Tan</string>
+				<key>Title</key>
+				<string>English Literature, English Department</string>
+				<key>Number</key>
+				<string>65161742</string>
+				<key>Email</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Sheryl Onn-Teo</string>
+				<key>Title</key>
+				<string>Physics &amp; Engineering Department</string>
+				<key>Number</key>
+				<string>65167065</string>
+				<key>Email</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Sie Siok Hui</string>
+				<key>Title</key>
+				<string>Math, Statistics &amp; Computing Department</string>
+				<key>Number</key>
+				<string>65168539</string>
+				<key>Email</key>
+				<string>nhsssh@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Sim Weishun</string>
+				<key>Title</key>
+				<string>Head of Year 4, English Department</string>
+				<key>Number</key>
+				<string>65168632</string>
+				<key>Email</key>
+				<string>nhssw@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Sion Hwei Hoon</string>
+				<key>Title</key>
+				<string>Mother Tongue &amp; Foreign Languages Department</string>
+				<key>Number</key>
+				<string>65165313</string>
+				<key>Email</key>
+				<string>nhsshh@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Sofia Lau</string>
+				<key>Title</key>
+				<string>Head of Staff Development, English Department</string>
+				<key>Number</key>
+				<string>65168535</string>
+				<key>Email</key>
+				<string>nhslwls@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Soong-Tan Seck Cher</string>
+				<key>Title</key>
+				<string>Chemistry Department</string>
+				<key>Number</key>
+				<string>65168666</string>
+				<key>Email</key>
+				<string>nhstsc@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Suresh s/o Balakrishnan</string>
+				<key>Title</key>
+				<string>Deputy Principal, Adminstrative Department</string>
+				<key>Number</key>
+				<string></string>
+				<key>Email</key>
+				<string>nhssb@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Syed Mahdar B Syed Othman</string>
+				<key>Title</key>
+				<string>Technical Support Officer of Art Programme</string>
+				<key>Number</key>
+				<string>65161764</string>
+				<key>Email</key>
+				<string></string>
+			</dict>
+		</array>
+		<key>T</key>
+		<array>
+			<dict>
+				<key>Name</key>
+				<string>Tan Boon Keong</string>
+				<key>Title</key>
+				<string>Head of Math, Statistics &amp; Computing Department</string>
+				<key>Number</key>
+				<string>65168540</string>
+				<key>Email</key>
+				<string>nhstbk@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Tan Ee Ling</string>
+				<key>Title</key>
+				<string>Head of Biology Department</string>
+				<key>Number</key>
+				<string>65168638</string>
+				<key>Email</key>
+				<string>nhstel@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Tan Gim Yong</string>
+				<key>Title</key>
+				<string>English Department</string>
+				<key>Number</key>
+				<string></string>
+				<key>Email</key>
+				<string>nhstgy@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Tan Kian Chuan</string>
+				<key>Title</key>
+				<string>Head of Physics &amp; Engineering Department</string>
+				<key>Number</key>
+				<string>65168665</string>
+				<key>Email</key>
+				<string>nhstkc@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Tay Min Min</string>
+				<key>Title</key>
+				<string>Music Department</string>
+				<key>Number</key>
+				<string>65167297</string>
+				<key>Email</key>
+				<string>nhstmm@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Tan Rui Feng</string>
+				<key>Title</key>
+				<string>Math, Statistics &amp; Computing Department</string>
+				<key>Number</key>
+				<string>65165172</string>
+				<key>Email</key>
+				<string>nhstrf@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Tan Soon Kee @ Hariz Tan</string>
+				<key>Title</key>
+				<string>Physics &amp; Engineering Department</string>
+				<key>Number</key>
+				<string>65167718</string>
+				<key>Email</key>
+				<string>nhstsk@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Tan Yong Yaw</string>
+				<key>Title</key>
+				<string>Chemistry Department</string>
+				<key>Number</key>
+				<string></string>
+				<key>Email</key>
+				<string>nhstyy@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Tang Hock Chun</string>
+				<key>Title</key>
+				<string>Biology Department</string>
+				<key>Number</key>
+				<string>65168639</string>
+				<key>Email</key>
+				<string>nhsthc@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Teh Yun Ling</string>
+				<key>Title</key>
+				<string>Chemistry Department</string>
+				<key>Number</key>
+				<string>65161773</string>
+				<key>Email</key>
+				<string>nhstyl@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Timothy Foo</string>
+				<key>Title</key>
+				<string>Program Executive, Boarding Department</string>
+				<key>Number</key>
+				<string></string>
+				<key>Email</key>
+				<string>nhsfcwt@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Toh Chen Yeong</string>
+				<key>Title</key>
+				<string>Mother Tongue &amp; Foreign Languages Department</string>
+				<key>Number</key>
+				<string>65161733</string>
+				<key>Email</key>
+				<string>nhstcy@nus.edu.sg</string>
+			</dict>
+		</array>
+		<key>V</key>
+		<array>
+			<dict>
+				<key>Name</key>
+				<string>Valerie Lim</string>
+				<key>Title</key>
+				<string>Biology Department</string>
+				<key>Number</key>
+				<string>65167301</string>
+				<key>Email</key>
+				<string>nhslsf@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Van Li Hui</string>
+				<key>Title</key>
+				<string>Admission &amp; Recruitment, Administrative Office</string>
+				<key>Number</key>
+				<string></string>
+				<key>Email</key>
+				<string>nhsvlh@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Verlyn Woo</string>
+				<key>Title</key>
+				<string>Biology Department</string>
+				<key>Number</key>
+				<string>65161772</string>
+				<key>Email</key>
+				<string>nhswyl@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Villaire Jean Marc</string>
+				<key>Title</key>
+				<string>Mother Tongue &amp; Foreign Languages Department</string>
+				<key>Number</key>
+				<string>65161421</string>
+				<key>Email</key>
+				<string>nhsjmv@nus.edu.sg</string>
+			</dict>
+		</array>
+		<key>W</key>
+		<array>
+			<dict>
+				<key>Name</key>
+				<string>Wang Haibin</string>
+				<key>Title</key>
+				<string>Math, Statistics &amp; Computing Department</string>
+				<key>Number</key>
+				<string>65165199</string>
+				<key>Email</key>
+				<string>nhswh@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Wee Siew Bee</string>
+				<key>Title</key>
+				<string>Humanities Department</string>
+				<key>Number</key>
+				<string>65165804</string>
+				<key>Email</key>
+				<string>nhswsb@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Wong Chee Khiam</string>
+				<key>Title</key>
+				<string>Boarding Operations, Boarding Department</string>
+				<key>Number</key>
+				<string></string>
+				<key>Email</key>
+				<string>nhswck@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Wong Chee Leong</string>
+				<key>Title</key>
+				<string>Physics &amp; Engineering Department</string>
+				<key>Number</key>
+				<string>65161718</string>
+				<key>Email</key>
+				<string>nhswcl@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Wong Pui Hong</string>
+				<key>Title</key>
+				<string>Chemistry Department</string>
+				<key>Number</key>
+				<string>65167063</string>
+				<key>Email</key>
+				<string>nhswph@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Wu Jiong</string>
+				<key>Title</key>
+				<string>Mother Tongue &amp; Foreign Languages Department</string>
+				<key>Number</key>
+				<string>65168636</string>
+				<key>Email</key>
+				<string>nhswj@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Wu Liang</string>
+				<key>Title</key>
+				<string>Math, Statistics &amp; Computing Department</string>
+				<key>Number</key>
+				<string>65167721</string>
+				<key>Email</key>
+				<string>nhswl@nus.edu.sg</string>
+			</dict>
+		</array>
+		<key>X</key>
+		<array>
+			<dict>
+				<key>Name</key>
+				<string>Xie Chuanling</string>
+				<key>Title</key>
+				<string>Mother Tongue &amp; Foreign Languages Department</string>
+				<key>Number</key>
+				<string>65168542</string>
+				<key>Email</key>
+				<string>nhsxc@nus.edu.sg</string>
+			</dict>
+		</array>
+		<key>Y</key>
+		<array>
+			<dict>
+				<key>Name</key>
+				<string>Yuen Xiang Hao</string>
+				<key>Title</key>
+				<string>Physics &amp; Engineering Department</string>
+				<key>Number</key>
+				<string>65168534</string>
+				<key>Email</key>
+				<string>nhsyxh@nus.edu.sg</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Yvonne Teng</string>
+				<key>Title</key>
+				<string>Physics &amp; Engineering Department</string>
+				<key>Number</key>
+				<string>65168650</string>
+				<key>Email</key>
+				<string></string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

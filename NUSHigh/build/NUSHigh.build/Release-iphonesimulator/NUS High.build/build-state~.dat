@@ -1,0 +1,1183 @@
+TNUS High
+v7
+r0
+t304067988.995914
+cCheck dependencies
+cProcessInfoPlistFile "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/Info.plist" NUSHigh-Info.plist
+cCompileXIB "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/MainWindow.xib"
+cCompileXIB "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/NUSHighViewController.xib"
+cCompileXIB "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/StaffDirectoryController.xib"
+cCopyPlistFile "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/Data.plist" Data.plist
+cCompileXIB "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/StaffDirectoryDetailController.xib"
+cCopyPlistFile "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/Links.plist" Links.plist
+cCompileXIB "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/Links.xib"
+cCompileXIB "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/MapController.xib"
+cCompileXIB "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/LoginController.xib"
+cCompileXIB "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/LoginController.xib"
+cCpResource build/Release-iphonesimulator/NUSHigh.app/clementi2.gif clementi2.gif
+cCpResource build/Release-iphonesimulator/NUSHigh.app/iPhonedefault.jpg iPhonedefault.jpg
+cCpResource build/Release-iphonesimulator/NUSHigh.app/Button1New.png Button1New.png
+cCpResource build/Release-iphonesimulator/NUSHigh.app/Button3.png Button3.png
+cCpResource build/Release-iphonesimulator/NUSHigh.app/Button4.png Button4.png
+cCpResource build/Release-iphonesimulator/NUSHigh.app/Button6.png Button6.png
+cCpResource build/Release-iphonesimulator/NUSHigh.app/Button2New.png Button2New.png
+cCpResource build/Release-iphonesimulator/NUSHigh.app/Button5New.png Button5New.png
+cCpResource build/Release-iphonesimulator/NUSHigh.app/Button5Newest.png Button5Newest.png
+cCompileXIB "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/TimetableController.xib"
+cCopyPlistFile "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/Calendar.plist" Calendar.plist
+cCompileXIB "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/TableCellView.xib"
+cCompileXIB "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/EventPickerController.xib"
+cCpResource build/Release-iphonesimulator/NUSHigh.app/Icon.png Icon.png
+cCpResource build/Release-iphonesimulator/NUSHigh.app/iTunesArtwork iTunesArtwork
+cCpResource build/Release-iphonesimulator/NUSHigh.app/Icon@2x.png Icon@2x.png
+cCpResource build/Release-iphonesimulator/NUSHigh.app/Default.png Default.png
+cCpResource build/Release-iphonesimulator/NUSHigh.app/Default@2x.png Default@2x.png
+cCpResource build/Release-iphonesimulator/NUSHigh.app/location.png location.png
+cProcessPCH /var/folders/xa/xaQcKqocGPqA0+onmXvxZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NUSHigh_Prefix-gphfhqcuargwkbgbltrqqnaaffcb/NUSHigh_Prefix.pch.gch NUSHigh_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/main.o" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/NUSHighAppDelegate.o" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/NUSHighAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/NUSHighViewController.o" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/NUSHighViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/StaffDirectoryController.o" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/StaffDirectoryController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/StaffDirectoryDetailController.o" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/StaffDirectoryDetailController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/Links.o" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/Links.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/MapController.o" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/MapController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/LoginController.o" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/LoginController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/TimetableController.o" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/TimetableController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/TableCellView.o" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/TableCellView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/EventPickerController.o" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/EventPickerController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/ARCoordinate.o" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/ARCoordinate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/ARViewController.o" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/ARViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/ARGeoCoordinate.o" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/ARGeoCoordinate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/ARGeoViewController.o" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/ARGeoViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/NUSHigh" normal i386
+cGenerateDSYMFile "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app.dSYM" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/NUSHigh"
+cTouch "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C454EF50000000000000132
+t1279610613
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004BFF44C00000000000068F90
+t1275020480
+s429968
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004BFF44B600000000000001D0
+t1275020470
+s464
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004C04724700000000000002FE
+t1275359815
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004C04725B0000000000160350
+t1275359835
+s1442640
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MessageUI.framework/Headers/MessageUI.h
+c000000004C04728100000000000000CD
+t1275359873
+s205
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+c000000004C04728D0000000000090330
+t1275359885
+s590640
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004C04586B00000000000000C4
+t1275353195
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004C0458E90000000000151D30
+t1275353321
+s1383728
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Button1New.png
+c000000004C3476E80000000000001F82
+t1278506728
+s8066
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Button2New.png
+c000000004C347DFD00000000000024F6
+t1278508541
+s9462
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Button3.png
+c000000004C3478DC0000000000002EA3
+t1278507228
+s11939
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Button4.png
+c000000004C3478DF0000000000002729
+t1278507231
+s10025
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Button5New.png
+c000000004C347DFE0000000000002C9C
+t1278508542
+s11420
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Button5Newest.png
+c000000004C34815C0000000000002AFC
+t1278509404
+s11004
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Button6.png
+c000000004C347DFF0000000000000C4A
+t1278508543
+s3146
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Calendar.plist
+c000000004C69FA640000000000000340
+t1282013796
+s832
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/ARCoordinate.h
+c000000004AD48F3E000000000000056E
+t1255444286
+s1390
+i<Foundation/Foundation.h>
+i<MapKit/MapKit.h>
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/ARCoordinate.m
+c000000004AD48F3E0000000000000720
+t1255444286
+s1824
+i"ARCoordinate.h"
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/ARGeoCoordinate.h
+c000000004AD48F3E00000000000002B2
+t1255444286
+s690
+i<Foundation/Foundation.h>
+i"ARCoordinate.h"
+i<CoreLocation/CoreLocation.h>
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/ARGeoCoordinate.m
+c000000004C6939740000000000000721
+t1281964404
+s1825
+i"ARGeoCoordinate.h"
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/ARGeoViewController.h
+c000000004C6967EA0000000000000160
+t1281976298
+s352
+i<Foundation/Foundation.h>
+i"ARViewController.h"
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/ARGeoViewController.m
+c000000004C6969BF00000000000003A6
+t1281976767
+s934
+i"ARGeoViewController.h"
+i"ARGeoCoordinate.h"
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/ARViewController.h
+c000000004C696C930000000000000AA6
+t1281977491
+s2726
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+i"ARCoordinate.h"
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/ARViewController.m
+c000000004C6970340000000000003958
+t1281978420
+s14680
+i"ARViewController.h"
+i"NUSHighViewController.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/EventPickerController.h
+c000000004C39A4B20000000000000522
+t1278846130
+s1314
+i<UIKit/UIKit.h>
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/EventPickerController.m
+c000000004C5F5C7A0000000000000FAB
+t1281318010
+s4011
+i"EventPickerController.h"
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/EventPickerController.xib
+c000000004C5FC599000000000000B851
+t1281344921
+s47185
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/Links.h
+c000000004C341F120000000000000128
+t1278484242
+s296
+i<UIKit/UIKit.h>
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/Links.m
+c000000004C370D8300000000000012DC
+t1278676355
+s4828
+i"Links.h"
+i"NUSHighAppDelegate.h"
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/Links.xib
+c000000004C332D520000000000001C5A
+t1278422354
+s7258
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/LoginController.h
+c000000004C5A1B8F0000000000000270
+t1280973711
+s624
+i<UIKit/UIKit.h>
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/LoginController.m
+c000000004C5A1A1200000000000019F4
+t1280973330
+s6644
+i"LoginController.h"
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/LoginController.xib
+c000000004C5F5CE00000000000008E1C
+t1281318112
+s36380
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/MapController.h
+c000000004C3423CE0000000000000136
+t1278485454
+s310
+i<UIKit/UIKit.h>
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/MapController.m
+c000000004C36119000000000000006A8
+t1278611856
+s1704
+i"MapController.h"
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/MapController.xib
+c000000004C34551F0000000000004F04
+t1278498079
+s20228
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/NUSHighAppDelegate.h
+c000000004C6564390000000000000398
+t1281713209
+s920
+i<UIKit/UIKit.h>
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/NUSHighAppDelegate.m
+c000000004C6F7E0600000000000009F7
+t1282375174
+s2551
+i"NUSHighAppDelegate.h"
+i"NUSHighViewController.h"
+i"StaffDirectoryController.h"
+i"StaffDirectoryDetailController.h"
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/NUSHighViewController.h
+c000000004C693A620000000000000410
+t1281964642
+s1040
+i<UIKit/UIKit.h>
+i"ARGeoViewController.h"
+i<MessageUI/MessageUI.h>
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/NUSHighViewController.m
+c000000004C6A6E4F0000000000003FD2
+t1282043471
+s16338
+i"NUSHighViewController.h"
+i"StaffDirectoryController.h"
+i"Links.h"
+i"TimetableController.h"
+i"LoginController.h"
+i<MessageUI/MessageUI.h>
+i"ARGeoCoordinate.h"
+i<MapKit/MapKit.h>
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/StaffDirectoryController.h
+c000000004C69F7590000000000000353
+t1282013017
+s851
+i<UIKit/UIKit.h>
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/StaffDirectoryController.m
+c000000004C69F7F800000000000021F5
+t1282013176
+s8693
+i"NUSHighAppDelegate.h"
+i"StaffDirectoryController.h"
+i"StaffDirectoryDetailController.h"
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/StaffDirectoryController.xib
+c000000004C69F7D40000000000006355
+t1282013140
+s25429
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/StaffDirectoryDetailController.h
+c000000004C5A175E0000000000000351
+t1280972638
+s849
+i<UIKit/UIKit.h>
+i<MessageUI/MessageUI.h>
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/StaffDirectoryDetailController.m
+c000000004C39B3930000000000000EA2
+t1278849939
+s3746
+i"StaffDirectoryDetailController.h"
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/StaffDirectoryDetailController.xib
+c000000004C371ECB0000000000006CA0
+t1278680779
+s27808
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/TableCellView.h
+c000000004C3919E000000000000001E0
+t1278810592
+s480
+i<UIKit/UIKit.h>
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/TableCellView.m
+c000000004C391A8F00000000000003EB
+t1278810767
+s1003
+i"TableCellView.h"
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/TableCellView.xib
+c000000004C391A7A0000000000006C8D
+t1278810746
+s27789
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/TimetableController.h
+c000000004C39AAFB0000000000000268
+t1278847739
+s616
+i<UIKit/UIKit.h>
+i"TableCellView.h"
+i"EventPickerController.h"
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/TimetableController.m
+c000000004C6AAAF200000000000023E9
+t1282058994
+s9193
+i"TimetableController.h"
+i"NUSHighAppDelegate.h"
+i"TableCellView.h"
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/TimetableController.xib
+c000000004C39A5A00000000000004FA1
+t1278846368
+s20385
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Data.plist
+c000000004C371F1F0000000000009407
+t1278680863
+s37895
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Default.png
+c000000004C5FBF240000000000006A04
+t1281343268
+s27140
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Default@2x.png
+c000000004C5FBF3D000000000000D738
+t1281343293
+s55096
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Icon.png
+c000000004C39C7E3000000000000129B
+t1278855139
+s4763
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Icon@2x.png
+c000000004C5FBB120000000000001A65
+t1281342226
+s6757
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Links.plist
+c000000004C370D7E00000000000003F0
+t1278676350
+s1008
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/MainWindow.xib
+c000000004C329D160000000000005FAA
+t1278385430
+s24490
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/NUSHighViewController.xib
+c000000004C6A6DAE000000000000B237
+t1282043310
+s45623
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/NUSHigh_Prefix.pch
+c000000004C327BB500000000000000B7
+t1278376885
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/ARCoordinate.o
+t1282375187
+s17188
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/ARGeoCoordinate.o
+t1282375187
+s13152
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/ARGeoViewController.o
+t1282375187
+s40532
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/ARViewController.o
+t1282375188
+s93268
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/EventPickerController.o
+t1282375187
+s53528
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/Links.o
+t1282375187
+s49028
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/LoginController.o
+t1282375187
+s60700
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/MapController.o
+t1282375187
+s39760
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/NUSHigh.LinkFileList
+c000000004C6F7E0600000000000008B1
+t1282375174
+s2225
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/NUSHighAppDelegate.o
+t1282375186
+s55540
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/NUSHighViewController.o
+t1282375186
+s86876
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/StaffDirectoryController.o
+t1282375186
+s67312
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/StaffDirectoryDetailController.o
+t1282375186
+s60848
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/TableCellView.o
+t1282375187
+s37288
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/TimetableController.o
+t1282375187
+s69672
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/main.o
+t1282375186
+s6312
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app
+t1282375188
+s1122
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app.dSYM
+t1282375188
+s102
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/Button1New.png
+t1282375183
+s8066
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/Button2New.png
+t1282375183
+s9462
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/Button3.png
+t1282375183
+s11939
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/Button4.png
+t1282375183
+s10025
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/Button5New.png
+t1282375183
+s11420
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/Button5Newest.png
+t1282375183
+s11004
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/Button6.png
+t1282375183
+s3146
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/Calendar.plist
+t1282375183
+s261
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/Data.plist
+t1282375182
+s12147
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/Default.png
+t1282375184
+s27140
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/Default@2x.png
+t1282375184
+s55096
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/EventPickerController.nib
+t1282375184
+s4773
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/Icon.png
+t1282375184
+s4763
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/Icon@2x.png
+t1282375184
+s6757
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/Info.plist
+t1282375174
+s806
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/Links.nib
+t1282375182
+s979
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/Links.plist
+t1282375182
+s434
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/LoginController.nib
+t1282375183
+s3687
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/MainWindow.nib
+t1282375181
+s1612
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/MapController.nib
+t1282375183
+s1287
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/NUSHigh
+t1282375188
+s136968
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/NUSHighViewController.nib
+t1282375181
+s3990
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/PkgInfo
+t1282375174
+s8
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/StaffDirectoryController.nib
+t1282375182
+s1761
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/StaffDirectoryDetailController.nib
+t1282375182
+s2349
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/TableCellView.nib
+t1282375184
+s2356
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/TimetableController.nib
+t1282375183
+s979
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/clementi2.gif
+t1282375183
+s138850
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/iPhonedefault.jpg
+t1282375183
+s51635
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/iTunesArtwork
+t1282375184
+s24973
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/location.png
+t1282375184
+s293
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/clementi2.gif
+c000000004C3454E70000000000021E62
+t1278498023
+s138850
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/iPhonedefault.jpg
+c000000004C347068000000000000C9B3
+t1278505064
+s51635
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/iTunesArtwork
+c000000004C5FBBB9000000000000618D
+t1281342393
+s24973
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/location.png
+c000000004AD48F3E0000000000000125
+t1255444286
+s293
+
+N/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/main.m
+c000000004C327BB50000000000000166
+t1278376885
+s358
+i<UIKit/UIKit.h>
+
+N/var/folders/xa/xaQcKqocGPqA0+onmXvxZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NUSHigh_Prefix-gphfhqcuargwkbgbltrqqnaaffcb/NUSHigh_Prefix.pch.gch
+t1282375185
+s14896144
+
+NNUSHigh-Info.plist
+c000000004C5FC42900000000000004E9
+t1281344553
+s1257
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies304067974#304067974#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC "build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/ARCoordinate.o" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/ARCoordinate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s304067987.465723
+e304067987.639032
+r1
+xCompileC
+xbuild/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/ARCoordinate.o
+x/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/ARCoordinate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/ARCoordinate.m304067987#304067987#0(0"0(0#0#72"/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/ARCoordinate.m8602087360#2110"    cd "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-generated-files.hmap" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-own-target-headers.hmap" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-all-target-headers.hmap" -iquote "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-project-headers.hmap" "-F/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/include" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/DerivedSources/i386" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/DerivedSources" -include /var/folders/xa/xaQcKqocGPqA0+onmXvxZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NUSHigh_Prefix-gphfhqcuargwkbgbltrqqnaaffcb/NUSHigh_Prefix.pch -c "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/ARCoordinate.m" -o "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/ARCoordinate.o"0#
+
+CCompileC "build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/ARGeoCoordinate.o" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/ARGeoCoordinate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s304067987.671355
+e304067987.822327
+r1
+xCompileC
+xbuild/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/ARGeoCoordinate.o
+x/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/ARGeoCoordinate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/ARGeoCoordinate.m304067987#304067987#0(0"0(0#0#75"/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/ARGeoCoordinate.m8605212320#2116"    cd "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-generated-files.hmap" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-own-target-headers.hmap" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-all-target-headers.hmap" -iquote "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-project-headers.hmap" "-F/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/include" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/DerivedSources/i386" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/DerivedSources" -include /var/folders/xa/xaQcKqocGPqA0+onmXvxZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NUSHigh_Prefix-gphfhqcuargwkbgbltrqqnaaffcb/NUSHigh_Prefix.pch -c "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/ARGeoCoordinate.m" -o "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/ARGeoCoordinate.o"0#
+
+CCompileC "build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/ARGeoViewController.o" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/ARGeoViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s304067987.822444
+e304067987.997147
+r1
+xCompileC
+xbuild/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/ARGeoViewController.o
+x/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/ARGeoViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/ARGeoViewController.m304067987#304067987#0(0"0(0#0#79"/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/ARGeoViewController.m8601435904#2124"    cd "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-generated-files.hmap" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-own-target-headers.hmap" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-all-target-headers.hmap" -iquote "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-project-headers.hmap" "-F/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/include" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/DerivedSources/i386" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/DerivedSources" -include /var/folders/xa/xaQcKqocGPqA0+onmXvxZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NUSHigh_Prefix-gphfhqcuargwkbgbltrqqnaaffcb/NUSHigh_Prefix.pch -c "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/ARGeoViewController.m" -o "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/ARGeoViewController.o"0#
+
+CCompileC "build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/ARViewController.o" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/ARViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s304067987.639141
+e304067988.378418
+r1
+xCompileC
+xbuild/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/ARViewController.o
+x/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/ARViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/ARViewController.m304067987#304067988#0(0"0(0#0#76"/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/ARViewController.m8606519808#2118"    cd "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-generated-files.hmap" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-own-target-headers.hmap" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-all-target-headers.hmap" -iquote "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-project-headers.hmap" "-F/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/include" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/DerivedSources/i386" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/DerivedSources" -include /var/folders/xa/xaQcKqocGPqA0+onmXvxZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NUSHigh_Prefix-gphfhqcuargwkbgbltrqqnaaffcb/NUSHigh_Prefix.pch -c "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/ARViewController.m" -o "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/ARViewController.o"0#
+
+CCompileC "build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/EventPickerController.o" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/EventPickerController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s304067987.401452
+e304067987.671240
+r1
+xCompileC
+xbuild/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/EventPickerController.o
+x/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/EventPickerController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/EventPickerController.m304067987#304067987#0(0"0(0#0#81"/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/EventPickerController.m8605124832#2128"    cd "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-generated-files.hmap" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-own-target-headers.hmap" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-all-target-headers.hmap" -iquote "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-project-headers.hmap" "-F/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/include" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/DerivedSources/i386" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/DerivedSources" -include /var/folders/xa/xaQcKqocGPqA0+onmXvxZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NUSHigh_Prefix-gphfhqcuargwkbgbltrqqnaaffcb/NUSHigh_Prefix.pch -c "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/EventPickerController.m" -o "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/EventPickerController.o"0#
+
+CCompileC "build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/Links.o" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/Links.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s304067986.899116
+e304067987.053738
+r1
+xCompileC
+xbuild/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/Links.o
+x/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/Links.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/Links.m304067986#304067987#0(0"0(0#0#65"/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/Links.m8607858272#2096"    cd "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-generated-files.hmap" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-own-target-headers.hmap" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-all-target-headers.hmap" -iquote "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-project-headers.hmap" "-F/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/include" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/DerivedSources/i386" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/DerivedSources" -include /var/folders/xa/xaQcKqocGPqA0+onmXvxZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NUSHigh_Prefix-gphfhqcuargwkbgbltrqqnaaffcb/NUSHigh_Prefix.pch -c "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/Links.m" -o "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/Links.o"0#
+
+CCompileC "build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/LoginController.o" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/LoginController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s304067987.053853
+e304067987.344867
+r1
+xCompileC
+xbuild/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/LoginController.o
+x/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/LoginController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/LoginController.m304067987#304067987#0(0"0(0#0#75"/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/LoginController.m8600897248#2116"    cd "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-generated-files.hmap" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-own-target-headers.hmap" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-all-target-headers.hmap" -iquote "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-project-headers.hmap" "-F/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/include" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/DerivedSources/i386" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/DerivedSources" -include /var/folders/xa/xaQcKqocGPqA0+onmXvxZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NUSHigh_Prefix-gphfhqcuargwkbgbltrqqnaaffcb/NUSHigh_Prefix.pch -c "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/LoginController.m" -o "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/LoginController.o"0#
+
+CCompileC "build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/MapController.o" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/MapController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s304067986.951821
+e304067987.078035
+r1
+xCompileC
+xbuild/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/MapController.o
+x/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/MapController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/MapController.m304067986#304067987#0(0"0(0#0#73"/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/MapController.m8606090496#2112"    cd "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-generated-files.hmap" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-own-target-headers.hmap" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-all-target-headers.hmap" -iquote "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-project-headers.hmap" "-F/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/include" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/DerivedSources/i386" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/DerivedSources" -include /var/folders/xa/xaQcKqocGPqA0+onmXvxZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NUSHigh_Prefix-gphfhqcuargwkbgbltrqqnaaffcb/NUSHigh_Prefix.pch -c "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/MapController.m" -o "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/MapController.o"0#
+
+CCompileC "build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/NUSHighAppDelegate.o" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/NUSHighAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s304067986.210939
+e304067986.479846
+r1
+xCompileC
+xbuild/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/NUSHighAppDelegate.o
+x/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/NUSHighAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/NUSHighAppDelegate.m304067986#304067986#0(0"0(0#0#78"/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/NUSHighAppDelegate.m8608633696#2122"    cd "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-generated-files.hmap" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-own-target-headers.hmap" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-all-target-headers.hmap" -iquote "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-project-headers.hmap" "-F/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/include" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/DerivedSources/i386" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/DerivedSources" -include /var/folders/xa/xaQcKqocGPqA0+onmXvxZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NUSHigh_Prefix-gphfhqcuargwkbgbltrqqnaaffcb/NUSHigh_Prefix.pch -c "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/NUSHighAppDelegate.m" -o "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/NUSHighAppDelegate.o"0#
+
+CCompileC "build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/NUSHighViewController.o" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/NUSHighViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s304067986.371766
+e304067986.898999
+r1
+xCompileC
+xbuild/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/NUSHighViewController.o
+x/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/NUSHighViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/NUSHighViewController.m304067986#304067986#0(0"0(0#0#81"/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/NUSHighViewController.m8605756000#2128"    cd "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-generated-files.hmap" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-own-target-headers.hmap" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-all-target-headers.hmap" -iquote "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-project-headers.hmap" "-F/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/include" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/DerivedSources/i386" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/DerivedSources" -include /var/folders/xa/xaQcKqocGPqA0+onmXvxZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NUSHigh_Prefix-gphfhqcuargwkbgbltrqqnaaffcb/NUSHigh_Prefix.pch -c "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/NUSHighViewController.m" -o "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/NUSHighViewController.o"0#
+
+CCompileC "build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/StaffDirectoryController.o" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/StaffDirectoryController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s304067986.480019
+e304067986.751530
+r1
+xCompileC
+xbuild/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/StaffDirectoryController.o
+x/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/StaffDirectoryController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/StaffDirectoryController.m304067986#304067986#0(0"0(0#0#84"/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/StaffDirectoryController.m8606709664#2134"    cd "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-generated-files.hmap" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-own-target-headers.hmap" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-all-target-headers.hmap" -iquote "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-project-headers.hmap" "-F/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/include" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/DerivedSources/i386" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/DerivedSources" -include /var/folders/xa/xaQcKqocGPqA0+onmXvxZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NUSHigh_Prefix-gphfhqcuargwkbgbltrqqnaaffcb/NUSHigh_Prefix.pch -c "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/StaffDirectoryController.m" -o "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/StaffDirectoryController.o"0#
+
+CCompileC "build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/StaffDirectoryDetailController.o" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/StaffDirectoryDetailController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s304067986.751642
+e304067986.951696
+r1
+xCompileC
+xbuild/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/StaffDirectoryDetailController.o
+x/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/StaffDirectoryDetailController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/StaffDirectoryDetailController.m304067986#304067986#0(0"0(0#0#90"/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/StaffDirectoryDetailController.m8595963104#2146"    cd "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-generated-files.hmap" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-own-target-headers.hmap" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-all-target-headers.hmap" -iquote "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-project-headers.hmap" "-F/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/include" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/DerivedSources/i386" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/DerivedSources" -include /var/folders/xa/xaQcKqocGPqA0+onmXvxZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NUSHigh_Prefix-gphfhqcuargwkbgbltrqqnaaffcb/NUSHigh_Prefix.pch -c "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/StaffDirectoryDetailController.m" -o "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/StaffDirectoryDetailController.o"0#
+
+CCompileC "build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/TableCellView.o" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/TableCellView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s304067987.344971
+e304067987.465604
+r1
+xCompileC
+xbuild/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/TableCellView.o
+x/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/TableCellView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/TableCellView.m304067987#304067987#0(0"0(0#0#73"/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/TableCellView.m8606315648#2112"    cd "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-generated-files.hmap" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-own-target-headers.hmap" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-all-target-headers.hmap" -iquote "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-project-headers.hmap" "-F/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/include" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/DerivedSources/i386" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/DerivedSources" -include /var/folders/xa/xaQcKqocGPqA0+onmXvxZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NUSHigh_Prefix-gphfhqcuargwkbgbltrqqnaaffcb/NUSHigh_Prefix.pch -c "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/TableCellView.m" -o "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/TableCellView.o"0#
+
+CCompileC "build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/TimetableController.o" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/TimetableController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s304067987.078185
+e304067987.401313
+r1
+xCompileC
+xbuild/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/TimetableController.o
+x/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/TimetableController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/TimetableController.m304067987#304067987#0(0"0(0#0#79"/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/TimetableController.m8608064960#2124"    cd "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-generated-files.hmap" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-own-target-headers.hmap" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-all-target-headers.hmap" -iquote "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-project-headers.hmap" "-F/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/include" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/DerivedSources/i386" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/DerivedSources" -include /var/folders/xa/xaQcKqocGPqA0+onmXvxZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NUSHigh_Prefix-gphfhqcuargwkbgbltrqqnaaffcb/NUSHigh_Prefix.pch -c "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/TimetableController.m" -o "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/TimetableController.o"0#
+
+CCompileC "build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/main.o" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s304067986.209015
+e304067986.371635
+r1
+xCompileC
+xbuild/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/main.o
+x/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/main.m304067986#304067986#0(0"0(0#0#56"/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/main.m8609148736#2086"    cd "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-generated-files.hmap" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-own-target-headers.hmap" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-all-target-headers.hmap" -iquote "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-project-headers.hmap" "-F/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/include" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/DerivedSources/i386" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/DerivedSources" -include /var/folders/xa/xaQcKqocGPqA0+onmXvxZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NUSHigh_Prefix-gphfhqcuargwkbgbltrqqnaaffcb/NUSHigh_Prefix.pch -c "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/main.m" -o "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/EventPickerController.xib"
+s304067983.948126
+e304067984.929258
+r1
+xCompileXIB
+x/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/EventPickerController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@44"CompileXIB Classes/EventPickerController.xib304067983#304067984#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#83"/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/EventPickerController.xib8607988896#641"    cd "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/EventPickerController.nib" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/EventPickerController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/Links.xib"
+s304067982.231181
+e304067982.678000
+r1
+xCompileXIB
+x/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/Links.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@28"CompileXIB Classes/Links.xib304067982#304067982#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#67"/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/Links.xib8604565056#609"    cd "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/Links.nib" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/Links.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/LoginController.xib"
+s304067983.180499
+e304067983.929795
+r1
+xCompileXIB
+x/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/LoginController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@38"CompileXIB Classes/LoginController.xib304067983#304067983#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#77"/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/LoginController.xib8608419680#629"    cd "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/LoginController.nib" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/LoginController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/MapController.xib"
+s304067982.678095
+e304067983.180388
+r1
+xCompileXIB
+x/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/MapController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@36"CompileXIB Classes/MapController.xib304067982#304067983#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#75"/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/MapController.xib8609061440#625"    cd "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/MapController.nib" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/MapController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/StaffDirectoryController.xib"
+s304067981.695621
+e304067982.174873
+r1
+xCompileXIB
+x/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/StaffDirectoryController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@47"CompileXIB Classes/StaffDirectoryController.xib304067981#304067982#0(252"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#86"/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/StaffDirectoryController.xib8606529984#647"    cd "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/StaffDirectoryController.nib" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/StaffDirectoryController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/StaffDirectoryDetailController.xib"
+s304067982.065609
+e304067982.726861
+r1
+xCompileXIB
+x/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/StaffDirectoryDetailController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@53"CompileXIB Classes/StaffDirectoryDetailController.xib304067982#304067982#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#92"/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/StaffDirectoryDetailController.xib8603248576#659"    cd "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/StaffDirectoryDetailController.nib" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/StaffDirectoryDetailController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/TableCellView.xib"
+s304067983.929892
+e304067984.578252
+r1
+xCompileXIB
+x/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/TableCellView.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@36"CompileXIB Classes/TableCellView.xib304067983#304067984#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#75"/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/TableCellView.xib8608442304#625"    cd "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/TableCellView.nib" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/TableCellView.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/TimetableController.xib"
+s304067983.427560
+e304067983.908128
+r1
+xCompileXIB
+x/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/TimetableController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@42"CompileXIB Classes/TimetableController.xib304067983#304067983#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#81"/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/TimetableController.xib8606207328#637"    cd "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/TimetableController.nib" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Classes/TimetableController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/MainWindow.xib"
+s304067974.843964
+e304067981.695418
+r1
+xCompileXIB
+x/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib304067974#304067981#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#64"/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/MainWindow.xib8605863936#611"    cd "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/MainWindow.nib" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/NUSHighViewController.xib"
+s304067974.844746
+e304067981.810540
+r1
+xCompileXIB
+x/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/NUSHighViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@36"CompileXIB NUSHighViewController.xib304067974#304067981#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#75"/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/NUSHighViewController.xib8605805152#633"    cd "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/NUSHighViewController.nib" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/NUSHighViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCopyPlistFile "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/Calendar.plist" Calendar.plist
+s304067983.908237
+e304067983.948028
+r1
+xCopyPlistFile
+x/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/Calendar.plist
+xCalendar.plist
+lSLF07#2@19"Copy Calendar.plist304067983#304067983#0(0"0(0#0#64"/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Calendar.plist8609004352#417"    cd "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 Calendar.plist --outdir "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app"0#
+
+CCopyPlistFile "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/Data.plist" Data.plist
+s304067981.810640
+e304067982.065510
+r1
+xCopyPlistFile
+x/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/Data.plist
+xData.plist
+lSLF07#2@15"Copy Data.plist304067981#304067982#0(0"0(0#0#60"/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Data.plist8608805728#413"    cd "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 Data.plist --outdir "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app"0#
+
+CCopyPlistFile "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/Links.plist" Links.plist
+s304067982.174975
+e304067982.231086
+r1
+xCopyPlistFile
+x/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/Links.plist
+xLinks.plist
+lSLF07#2@16"Copy Links.plist304067982#304067982#0(0"0(0#0#61"/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Links.plist8601837248#414"    cd "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 Links.plist --outdir "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app"0#
+
+CCpResource build/Release-iphonesimulator/NUSHigh.app/Button1New.png Button1New.png
+s304067983.366364
+e304067983.446764
+r1
+xCpResource
+xbuild/Release-iphonesimulator/NUSHigh.app/Button1New.png
+xButton1New.png
+lSLF07#2@19"Copy Button1New.png304067983#304067983#0(0"0(0#0#64"/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Button1New.png8607907552#520"    cd "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Button1New.png" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app"0#
+
+CCpResource build/Release-iphonesimulator/NUSHigh.app/Button2New.png Button2New.png
+s304067983.371396
+e304067983.459609
+r1
+xCpResource
+xbuild/Release-iphonesimulator/NUSHigh.app/Button2New.png
+xButton2New.png
+lSLF07#2@19"Copy Button2New.png304067983#304067983#0(0"0(0#0#64"/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Button2New.png8606537952#520"    cd "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Button2New.png" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app"0#
+
+CCpResource build/Release-iphonesimulator/NUSHigh.app/Button3.png Button3.png
+s304067983.367485
+e304067983.473703
+r1
+xCpResource
+xbuild/Release-iphonesimulator/NUSHigh.app/Button3.png
+xButton3.png
+lSLF07#2@16"Copy Button3.png304067983#304067983#0(0"0(0#0#61"/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Button3.png8607853920#517"    cd "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Button3.png" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app"0#
+
+CCpResource build/Release-iphonesimulator/NUSHigh.app/Button4.png Button4.png
+s304067983.368326
+e304067983.427352
+r1
+xCpResource
+xbuild/Release-iphonesimulator/NUSHigh.app/Button4.png
+xButton4.png
+lSLF07#2@16"Copy Button4.png304067983#304067983#0(0"0(0#0#61"/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Button4.png8606678368#517"    cd "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Button4.png" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app"0#
+
+CCpResource build/Release-iphonesimulator/NUSHigh.app/Button5New.png Button5New.png
+s304067983.373056
+e304067983.457650
+r1
+xCpResource
+xbuild/Release-iphonesimulator/NUSHigh.app/Button5New.png
+xButton5New.png
+lSLF07#2@19"Copy Button5New.png304067983#304067983#0(0"0(0#0#64"/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Button5New.png8606469536#520"    cd "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Button5New.png" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app"0#
+
+CCpResource build/Release-iphonesimulator/NUSHigh.app/Button5Newest.png Button5Newest.png
+s304067983.374697
+e304067983.472794
+r1
+xCpResource
+xbuild/Release-iphonesimulator/NUSHigh.app/Button5Newest.png
+xButton5Newest.png
+lSLF07#2@22"Copy Button5Newest.png304067983#304067983#0(0"0(0#0#67"/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Button5Newest.png8606336704#523"    cd "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Button5Newest.png" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app"0#
+
+CCpResource build/Release-iphonesimulator/NUSHigh.app/Button6.png Button6.png
+s304067983.369940
+e304067983.458459
+r1
+xCpResource
+xbuild/Release-iphonesimulator/NUSHigh.app/Button6.png
+xButton6.png
+lSLF07#2@16"Copy Button6.png304067983#304067983#0(0"0(0#0#61"/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Button6.png8606636352#517"    cd "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Button6.png" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app"0#
+
+CCpResource build/Release-iphonesimulator/NUSHigh.app/Default.png Default.png
+s304067984.584871
+e304067984.674019
+r1
+xCpResource
+xbuild/Release-iphonesimulator/NUSHigh.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png304067984#304067984#0(0"0(0#0#61"/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Default.png8590480544#517"    cd "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Default.png" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app"0#
+
+CCpResource build/Release-iphonesimulator/NUSHigh.app/Default@2x.png Default@2x.png
+s304067984.586673
+e304067984.675724
+r1
+xCpResource
+xbuild/Release-iphonesimulator/NUSHigh.app/Default@2x.png
+xDefault@2x.png
+lSLF07#2@19"Copy Default@2x.png304067984#304067984#0(0"0(0#0#64"/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Default@2x.png8606655712#520"    cd "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Default@2x.png" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app"0#
+
+CCpResource build/Release-iphonesimulator/NUSHigh.app/Icon.png Icon.png
+s304067984.578344
+e304067984.603140
+r1
+xCpResource
+xbuild/Release-iphonesimulator/NUSHigh.app/Icon.png
+xIcon.png
+lSLF07#2@13"Copy Icon.png304067984#304067984#0(0"0(0#0#58"/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Icon.png8606563360#514"    cd "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Icon.png" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app"0#
+
+CCpResource build/Release-iphonesimulator/NUSHigh.app/Icon@2x.png Icon@2x.png
+s304067984.583146
+e304067984.634342
+r1
+xCpResource
+xbuild/Release-iphonesimulator/NUSHigh.app/Icon@2x.png
+xIcon@2x.png
+lSLF07#2@16"Copy Icon@2x.png304067984#304067984#0(0"0(0#0#61"/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Icon@2x.png8595866368#517"    cd "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/Icon@2x.png" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app"0#
+
+CCpResource build/Release-iphonesimulator/NUSHigh.app/clementi2.gif clementi2.gif
+s304067983.364841
+e304067983.543902
+r1
+xCpResource
+xbuild/Release-iphonesimulator/NUSHigh.app/clementi2.gif
+xclementi2.gif
+lSLF07#2@18"Copy clementi2.gif304067983#304067983#0(0"0(0#0#63"/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/clementi2.gif8608064576#519"    cd "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/clementi2.gif" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app"0#
+
+CCpResource build/Release-iphonesimulator/NUSHigh.app/iPhonedefault.jpg iPhonedefault.jpg
+s304067983.365647
+e304067983.545089
+r1
+xCpResource
+xbuild/Release-iphonesimulator/NUSHigh.app/iPhonedefault.jpg
+xiPhonedefault.jpg
+lSLF07#2@22"Copy iPhonedefault.jpg304067983#304067983#0(0"0(0#0#67"/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/iPhonedefault.jpg8607956256#523"    cd "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/iPhonedefault.jpg" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app"0#
+
+CCpResource build/Release-iphonesimulator/NUSHigh.app/iTunesArtwork iTunesArtwork
+s304067984.579421
+e304067984.626126
+r1
+xCpResource
+xbuild/Release-iphonesimulator/NUSHigh.app/iTunesArtwork
+xiTunesArtwork
+lSLF07#2@18"Copy iTunesArtwork304067984#304067984#0(0"0(0#0#63"/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/iTunesArtwork8608314144#519"    cd "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/iTunesArtwork" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app"0#
+
+CCpResource build/Release-iphonesimulator/NUSHigh.app/location.png location.png
+s304067984.588556
+e304067984.651976
+r1
+xCpResource
+xbuild/Release-iphonesimulator/NUSHigh.app/location.png
+xlocation.png
+lSLF07#2@17"Copy location.png304067984#304067984#0(0"0(0#0#62"/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/location.png8595963616#518"    cd "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/location.png" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app"0#
+
+CGenerateDSYMFile "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app.dSYM" "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/NUSHigh"
+s304067988.788785
+e304067988.946465
+r1
+xGenerateDSYMFile
+x/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app.dSYM
+x/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/NUSHigh
+lSLF07#2@113"GenerateDSYMFile build/Release-iphonesimulator/NUSHigh.app.dSYM build/Release-iphonesimulator/NUSHigh.app/NUSHigh304067988#304067988#0(0"0(0#0#99"/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/NUSHigh8600356352#426"    cd "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/NUSHigh" -o "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app.dSYM"0#
+
+CLd "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/NUSHigh" normal i386
+s304067988.378734
+e304067988.788676
+r1
+xLd
+x/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/NUSHigh
+xnormal
+xi386
+lSLF07#2@104"Link /Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/NUSHigh304067988#304067988#0(0"0(0#0#0"8608365952#1059"    cd "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator" "-F/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator" -filelist "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/Objects-normal/i386/NUSHigh.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework MessageUI -framework QuartzCore -framework MapKit -framework CoreLocation -o "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/NUSHigh"0#
+
+CProcessInfoPlistFile "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/Info.plist" NUSHigh-Info.plist
+s304067974.827395
+e304067974.843855
+r1
+xProcessInfoPlistFile
+x/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/Info.plist
+xNUSHigh-Info.plist
+lSLF07#2@26"Process NUSHigh-Info.plist304067974#304067974#0(0"0(0#0#68"/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/NUSHigh-Info.plist8606150464#522"    cd "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility NUSHigh-Info.plist -genpkginfo "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app/Info.plist"0#
+
+CProcessPCH /var/folders/xa/xaQcKqocGPqA0+onmXvxZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NUSHigh_Prefix-gphfhqcuargwkbgbltrqqnaaffcb/NUSHigh_Prefix.pch.gch NUSHigh_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s304067984.929465
+e304067986.208745
+r1
+xProcessPCH
+x/var/folders/xa/xaQcKqocGPqA0+onmXvxZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NUSHigh_Prefix-gphfhqcuargwkbgbltrqqnaaffcb/NUSHigh_Prefix.pch.gch
+xNUSHigh_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile NUSHigh_Prefix.pch304067984#304067986#0(0"0(0#0#68"/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/NUSHigh_Prefix.pch8608477024#1962"    cd "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-generated-files.hmap" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-own-target-headers.hmap" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-all-target-headers.hmap" -iquote "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/NUSHigh-project-headers.hmap" "-F/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/include" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/DerivedSources/i386" "-I/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/NUSHigh.build/Release-iphonesimulator/NUS High.build/DerivedSources" -c "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/NUSHigh_Prefix.pch" -o /var/folders/xa/xaQcKqocGPqA0+onmXvxZ++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NUSHigh_Prefix-gphfhqcuargwkbgbltrqqnaaffcb/NUSHigh_Prefix.pch.gch0#
+
+CTouch "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app"
+s304067988.946565
+e304067988.995856
+r1
+xTouch
+x/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app
+lSLF07#2@97"Touch /Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app304067988#304067988#0(0"0(0#0#0"8605128672#306"    cd "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/sidwyn/Desktop/NUS High iPhone App/NUSHigh/build/Release-iphonesimulator/NUSHigh.app"0#
+

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Links</key>
+	<array>
+		<dict>
+			<key>Title</key>
+			<string>eSpace</string>
+			<key>Link</key>
+			<string>https://espace.highsch.nus.edu.sg/Lms/</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Exchange Mail</string>
+			<key>Link</key>
+			<string>http://exchange.nus.edu.sg</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>School Website</string>
+			<key>Link</key>
+			<string>http://www.highsch.nus.edu.sg</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Library Search</string>
+			<key>Link</key>
+			<string>http://www.highsch.nus.edu.sg/library/index.htm</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Timetable</string>
+			<key>Link</key>
+			<string>http://www.highsch.nus.edu.sg/userfiles/file/Timetable%20SEM%202%202010/pure/index.html</string>
+		</dict>
+	</array>
+</dict>
+</plist>

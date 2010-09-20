@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Monday</key>
+	<array>
+		<dict>
+			<key>Title</key>
+			<string>CS1234</string>
+			<key>Teacher</key>
+			<string>My Favourite Teacher</string>
+			<key>Timefrom</key>
+			<string>8:00</string>
+			<key>Timeto</key>
+			<string>9:00</string>
+		</dict>
+	</array>
+	<key>Tuesday</key>
+	<array>
+		<dict>
+			<key>Title</key>
+			<string>Tap &apos;+&apos; to add new module</string>
+			<key>Teacher</key>
+			<string>Swipe this to delete</string>
+			<key>Timefrom</key>
+			<string>8:00</string>
+			<key>Timeto</key>
+			<string>9:00</string>
+		</dict>
+	</array>
+	<key>Wednesday</key>
+	<array/>
+	<key>Thursday</key>
+	<array/>
+	<key>Friday</key>
+	<array/>
+</dict>
+</plist>
